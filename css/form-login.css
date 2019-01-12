@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(../css/5.png);
+    background-size:100%;
+}
+
+.kotak{
+    background: #fff;
+    width: 350px;
+    margin: 222px auto 0;
+    margin-top: 10%;
+    border-radius: 16px;
+    min-height: 256px;
+    overflow: hidden;
+}
+
+.kepala{
+    background: #014351;
+    padding: 10px 22px;
+    height: 120px;
+}
+
+.kepala img{
+    width: 20%;
+}
+
+.kepala h2.judul{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: normal;
+    line-height: 40px;
+    display: inline-block;
+}
+
+.form{
+    padding: 10px 22px 0;
+    color: #808080;
+}
+
+.form .input{
+    margin: 16px 0;
+    margin-top: 5px;
+}
+
+.form .input label{
+    display: block;
+    padding: 10px 0;
+  }
+
+.form .input label{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.form .input input[type="text"], 
+.form .input input[type="password"]{
+    width: 100%;
+    height: 30px;
+    padding: 0 10px;
+    background: #eee;
+    border: none;
+    color: #808080;
+}
+
+.form .input input[type="text"]:hover, 
+.form .input input[type="password"]:hover{
+    background-color: #fffadb;
+    border: 1px solid rgb(167, 166, 166);
+}
+
+.form .input input[type="submit"]{
+    background: #b31a15;
+    padding: 6px 16px;
+    margin: 0 auto;
+    border: 1px solid #b31a15;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+}
+
+.form .input input[type="submit"]:hover{
+    background: #cf3a27;
+}
