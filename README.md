@@ -6,6 +6,6 @@ Jika berhasil login maka akan masuk ke halaman add_data.php yang bisa menambah d
 ket: Gambar menunjukkan akan menambahkan data
 ![alt text](https://github.com/NabilaRahmadanti/modul6/blob/master/hasilmodul6/2.PNG)
 Data berhasil ditambahkan
-![alt text](https://github.com/NabilaRahmadanti/modul6/blob/master/hasilmodul6/4.PNG)
+
 Jika Password atau NIS yang dimasukkan salah maka akan muncul notifikasi gagal login
 ![alt text](https://github.com/NabilaRahmadanti/modul6/blob/master/hasilmodul6/5.PNG)
